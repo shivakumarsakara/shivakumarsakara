@@ -1,4 +1,4 @@
-## Hi there Shiva Kumar👋
+## Hi there, I'm Shiva Kumar👋
 
 ## A passionate Data Analyst from Hyderabad
 
