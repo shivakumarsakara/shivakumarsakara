@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Analystics
 - 🤔 I’m looking for help with SQL
 - 💬 Ask me about SEO
-- 📫 How to reach me: www.linkedin.com/in/shivakumarsakara2906
+- 📫 How to reach me: Mobile: 9493408941
 - ⚡ Fun fact: Playing Chess & Vollyball
 -->
 _________________________________________________________________________________________
