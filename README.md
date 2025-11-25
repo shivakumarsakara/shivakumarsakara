@@ -1,7 +1,7 @@
 ## Hi there Shiva Kumar👋
 
 <!--
-**shivakumarsakara/shivakumarsakara** is a passionate Data Analyst
+## **shivakumarsakara/shivakumarsakara** is a passionate Data Analyst
 
 Here are some ideas to get you started:
 
