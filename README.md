@@ -12,7 +12,8 @@
 -->
 _________________________________________________________________________________________
   
-🛠️ My Tech Stack
+🛠️ ## My Tech Stack
+
 Here are a few technologies I've been working with recently:
 
 📊 **Data & BI:** Python, Excel, Power BI, SQL, Data Cleaning, Reporting
