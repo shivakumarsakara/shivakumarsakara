@@ -23,6 +23,12 @@ ________________________________________________________________________________
 🛒 **E-Commerce:** Shopify Data Mgmt, Performance Insights, Canva
 
 _________________________________________________________________________________________
+**TechMaster Certificate Program in Data Analytics from skillup.online**
+
+![Tech Master Certificate](https://github.com/user-attachments/assets/ea8f8d9a-362e-468c-8314-d58fa3802d04)
+
+_________________________________________________________________________________________
+
 
 🔗 Connect with me:
 
